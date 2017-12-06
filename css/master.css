@@ -1,0 +1,59 @@
+body {
+  background-color:#f4f5f7;
+}
+.container-fluid {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.card {
+  height: 75%;
+  width: 75%;
+}
+.link {
+  color: black !important;
+}
+.product {
+  padding-left: 90px !important;
+  padding-bottom: 40px !important;
+}
+.row {
+  margin: 0px !important;
+}
+.heading {
+  margin-left: 50px !important;
+}
+
+.form {
+  position: absolute;
+  top: 25vh;
+  left: 70vh;
+  padding: 40px;
+  background-color: white;
+  width: 65vh;
+}
+input {
+  width: 50% !important;
+}
+a {
+  text-decoration: none !important ;
+  color: white ;
+}
+input[type='submit']
+ {
+   background: black !important;
+   color: white;
+   border: none;
+   height: 40px;
+   width: 70px !important;
+}
+li {
+  list-style-type: none;
+}
+#input {
+  border-width: 0px 0px 2px 0px;
+  border-color: black;
+}
+a:hover {
+    color: white;
+    text-decoration: underline !important;
+}

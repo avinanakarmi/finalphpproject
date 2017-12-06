@@ -1,0 +1,19 @@
+.container-fluid {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.navbar {
+  background-color: black;
+}
+.tableFooter {
+  text-align: right;
+}
+.tableContent  {
+  border-bottom: solid black 2px;
+}
+.tableHeading {
+  border-bottom: solid black 2px;
+}
+.accDetail {
+  border-right: solid black 2px;
+}
